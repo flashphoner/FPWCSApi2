@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FPWCSApi2",
-            url: "https://flashphoner.com/downloads/builds/flashphoner_client/wcs-ios-sdk/pods/FPWCSApi2-2.6.122.zip",
-            checksum: "31145eae627b718b9e16d7a833b33bc3c55eb2292638f7b4ea249ea5b485ec27"
+            url: "https://flashphoner.com/downloads/builds/flashphoner_client/wcs-ios-sdk/pods/FPWCSApi2-2.6.124.zip",
+            checksum: "fb2c8ed3900266708c4a61e5cae29fbf9fe15b0fdaa5e2a2e944ed94d469a7af"
         ),
     ]
 )
